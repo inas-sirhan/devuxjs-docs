@@ -1,0 +1,24 @@
+name: Deploy Docs
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to VPS
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: root
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          script: |
+            cd /root/Desktop/devux-docs
+            git pull origin main
+            pnpm install --frozen-lockfile
+            rm -rf .vitepress/cache .vitepress/dist
+            pnpm build
+            cp -r .vitepress/dist/* /var/www/devux-docs/
+            sudo systemctl reload nginx
