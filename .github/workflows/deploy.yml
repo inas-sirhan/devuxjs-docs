@@ -14,6 +14,8 @@ jobs:
           host: ${{ secrets.DEPLOY_HOST }}
           username: root
           key: ${{ secrets.DEPLOY_SSH_KEY }}
+          timeout: 60s
+          command_timeout: 10m
           script: |
             cd /root/Desktop/devux-docs
             git pull origin main
