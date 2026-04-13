@@ -1,0 +1,27 @@
+/* Custom styles */
+
+/* Email tooltip on hover */
+.VPSocialLinks .VPSocialLink:last-child {
+    position: relative;
+}
+
+.VPSocialLinks .VPSocialLink:last-child::after {
+    content: 'inassirhan@gmail.com';
+    position: absolute;
+    bottom: -32px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--vp-c-bg-soft);
+    border: 1px solid var(--vp-c-border);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s;
+}
+
+.VPSocialLinks .VPSocialLink:last-child:hover::after {
+    opacity: 1;
+}
