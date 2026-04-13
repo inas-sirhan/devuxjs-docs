@@ -1,3 +1,7 @@
+---
+description: "Request lifecycle in Devux.js — how an HTTP request flows through the controller, validator, use-case, and presenter layers."
+---
+
 # Request Lifecycle
 
 <!-- TODO: Add detailed diagrams -->

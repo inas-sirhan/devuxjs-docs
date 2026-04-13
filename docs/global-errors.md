@@ -1,3 +1,7 @@
+---
+description: "Global errors in Devux.js — built-in API error handling with predefined error codes for validation, authentication, and more."
+---
+
 # Global Errors
 
 Devux provides a set of global API errors that are automatically handled by the framework. These are defined in the shared package and available to both frontend and backend.

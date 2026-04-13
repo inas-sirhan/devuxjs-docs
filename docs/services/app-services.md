@@ -1,3 +1,7 @@
+---
+description: "App services in Devux.js — application-wide utilities for cross-cutting concerns and external integrations."
+---
+
 # App Services
 
 App services are application-wide utilities that can be used across all domains. Unlike domain services (which belong to a specific domain), app services are global - they handle cross-cutting concerns and external integrations.

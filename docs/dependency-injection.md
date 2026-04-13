@@ -1,3 +1,7 @@
+---
+description: "Dependency injection in Devux.js — Inversify-based IoC with auto-generated tokens, bindings, and inject functions."
+---
+
 # Dependency Injection
 
 Devux uses [Inversify](https://inversify.io/) for dependency injection. The CLI generates all the DI boilerplate - tokens, bindings, and inject functions - so you don't have to.

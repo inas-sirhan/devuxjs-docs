@@ -1,3 +1,7 @@
+---
+description: "Query builder in Devux.js — type-safe SQL queries with Kysely, automatic snake_case/camelCase conversion, and full type inference."
+---
+
 # Query Builder
 
 Devux uses [Kysely](https://kysely.dev/) as the default query builder - a type-safe SQL query builder for TypeScript.

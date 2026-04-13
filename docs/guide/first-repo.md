@@ -1,3 +1,7 @@
+---
+description: "Guide — create your first repo in Devux.js for type-safe database operations."
+---
+
 # Create Your First Repo
 
 This guide walks you through creating repositories in Devux.

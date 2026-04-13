@@ -1,3 +1,7 @@
+---
+description: "Repos in Devux.js — data access layers for database operations with type-safe queries and the result pattern."
+---
+
 # Repos
 
 Repos are data access layers that handle database operations. They encapsulate queries and return results using the [result pattern](/docs/result-pattern).

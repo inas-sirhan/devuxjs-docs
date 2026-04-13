@@ -1,3 +1,7 @@
+---
+description: "Guide — create your first domain in Devux.js using the CLI."
+---
+
 # Create Your First Domain
 
 This guide walks you through creating your first domain in Devux.

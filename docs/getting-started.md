@@ -1,3 +1,7 @@
+---
+description: "Get started with Devux.js — install the framework, create your first endpoint, and see the full request lifecycle in action."
+---
+
 # Getting Started
 
 ## Prerequisites

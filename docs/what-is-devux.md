@@ -1,6 +1,11 @@
 ---
 title: Devux.js – Full-Stack TypeScript Framework for Node.js | Inas Sirhan
 titleTemplate: false
+description: "Devux.js is an opinionated framework for Node.js and TypeScript, designed for building maintainable and highly testable full-stack web applications with type-safe RESTful APIs."
+head:
+  - - meta
+    - name: keywords
+      content: "Devux.js, DevuxJS, devuxjs, devux.js, devux framework, devux node, devux nodejs, devux typescript, devuxjs framework, full-stack TypeScript framework"
 ---
 
 # What is Devux?

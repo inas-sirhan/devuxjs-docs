@@ -1,3 +1,7 @@
+---
+description: "Core config in Devux.js — configure transaction settings, retry behavior, validation, and monitoring thresholds."
+---
+
 # Core Config
 
 Core configuration options are defined in `apps/backend/src/infrastructure/core/core.config.ts`.

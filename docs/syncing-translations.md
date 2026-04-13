@@ -1,3 +1,7 @@
+---
+description: "Syncing translations in Devux.js — generate i18n translation files from error codes used in API responses."
+---
+
 # Syncing Translations
 
 Generate translation files from your error codes.

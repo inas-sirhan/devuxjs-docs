@@ -20,7 +20,7 @@ export default defineConfig({
         ['meta', { property: 'og:description', content: 'An opinionated full-stack TypeScript framework for Node.js by Inas Sirhan. Designed for building highly testable, maintainable, enterprise-grade applications with type-safe RESTful APIs.' }],
         ['meta', { property: 'og:url', content: 'https://devuxjs.com' }],
         ['meta', { name: 'twitter:card', content: 'summary' }],
-        ['meta', { name: 'keywords', content: 'Inas Sirhan, nodejs, typescript, full-stack framework, clean architecture, type safety, typesafe api, api client generation, express, dependency injection, zod, testing, domain driven design, ddd' }],
+        ['meta', { name: 'keywords', content: 'Devux.js, DevuxJS, devux.js, devuxjs, devux, devux framework, devux node, devux nodejs, devux ts, devux typescript, devuxjs node, devuxjs nodejs, devuxjs ts, devuxjs typescript, Devux.js framework, DevuxJS framework, Inas Sirhan, nodejs, typescript, full-stack framework, clean architecture, type safety, typesafe api, api client generation, express, dependency injection, zod, testing, domain driven design, ddd, nestjs alternative, spring boot nodejs, enterprise nodejs framework' }],
         ['meta', { name: 'author', content: 'Inas Sirhan' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
             "@context": "https://schema.org",

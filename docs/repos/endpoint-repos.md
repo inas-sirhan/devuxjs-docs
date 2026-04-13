@@ -1,3 +1,7 @@
+---
+description: "Endpoint repos in Devux.js — data access layers specific to a single endpoint."
+---
+
 # Endpoint Repos
 
 Endpoint repos are data access layers specific to a single endpoint. For shared concepts like constraint handling and repo structure, see the [Repos Overview](/docs/repos/).

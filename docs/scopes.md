@@ -1,3 +1,7 @@
+---
+description: "Scopes in Devux.js — global and request-scoped dependency injection for managing singleton and per-request services."
+---
+
 # Scopes
 
 Devux uses two types of scopes for dependency injection:

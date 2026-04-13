@@ -1,3 +1,7 @@
+---
+description: "Dependency visualizer in Devux.js — interactive graph of all endpoints and their dependencies, filterable by domain and method."
+---
+
 # Visualizer
 
 Devux includes a built-in dependency visualizer that generates an interactive HTML page showing your endpoints and their dependencies.

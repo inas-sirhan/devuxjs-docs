@@ -1,3 +1,7 @@
+---
+description: "Domain service repos in Devux.js — private data access layers specific to a domain service."
+---
+
 # Domain Service Repos
 
 Domain service repos are private data access layers specific to a [domain service](/docs/services/domain-services). They encapsulate database operations that are internal to a particular service.

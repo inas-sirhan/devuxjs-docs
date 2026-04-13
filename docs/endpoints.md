@@ -1,3 +1,7 @@
+---
+description: "Endpoints in Devux.js — create type-safe API routes with auto-generated controllers, validators, presenters, and test files."
+---
+
 # Endpoints
 
 Endpoints are API routes within a domain. Each endpoint follows clean architecture with a controller, validator, use-case, and presenter.

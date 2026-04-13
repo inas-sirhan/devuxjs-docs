@@ -1,3 +1,7 @@
+---
+description: "Domains in Devux.js — group related endpoints, services, repos, schemas, and error codes into cohesive units."
+---
+
 # Domains
 
 A domain groups related functionality together.

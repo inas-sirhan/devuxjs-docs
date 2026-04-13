@@ -1,3 +1,7 @@
+---
+description: "Core hooks in Devux.js — lifecycle callbacks for logging, monitoring, alerting, and custom error handling."
+---
+
 # Core Hooks
 
 Core Hooks are lifecycle callbacks that let you react to framework events. Use them for logging, monitoring, alerting, or custom error handling.

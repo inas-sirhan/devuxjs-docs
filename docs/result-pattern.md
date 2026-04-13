@@ -1,3 +1,7 @@
+---
+description: "Result pattern in Devux.js — return discriminated unions instead of throwing errors, with exhaustive checking and full type safety."
+---
+
 # Result Pattern
 
 The result pattern is a core concept used throughout Devux. Instead of throwing errors, operations return a discriminated union with `success` as the discriminator. This forces explicit handling of both success and error cases - you can't accidentally ignore errors.

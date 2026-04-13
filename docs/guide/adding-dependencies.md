@@ -1,3 +1,7 @@
+---
+description: "Guide — add dependencies in Devux.js by injecting services and repos into your use-cases via the CLI."
+---
+
 # Adding Dependencies
 
 This guide shows you how to inject services and repos into your use-cases.

@@ -1,3 +1,7 @@
+---
+description: "Domain services in Devux.js — reusable business logic orchestrators shared across multiple endpoints within a domain."
+---
+
 # Domain Services
 
 Domain services are reusable orchestrators of business logic. They coordinate calls to repos and app services, encapsulating complex operations that are shared across multiple use-cases.

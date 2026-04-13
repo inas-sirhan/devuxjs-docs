@@ -1,3 +1,7 @@
+---
+description: "Base classes in Devux.js — TransactionalUseCase, NonTransactionalUseCase, TransactionalRepo, and other framework base classes."
+---
+
 # Base Classes
 
 Devux provides base classes that your components extend. These handle common functionality like validation, transactions, and performance monitoring automatically.

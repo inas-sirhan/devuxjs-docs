@@ -1,3 +1,7 @@
+---
+description: "Guide — create your first service in Devux.js for reusable business logic across endpoints."
+---
+
 # Create Your First Service
 
 This guide walks you through creating services in Devux.

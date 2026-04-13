@@ -1,3 +1,7 @@
+---
+description: "Automatic validation in Devux.js — validate inputs and outputs across all layers during development, catching bugs TypeScript can't."
+---
+
 # Automatic Validation
 
 Devux takes validation a step further. Request payloads are always validated - that's standard. But Devux also validates internal layers (repos, domain services, responses) during development, catching bugs early before they reach production.

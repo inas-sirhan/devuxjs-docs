@@ -1,3 +1,7 @@
+---
+description: "Guide — create your first endpoint in Devux.js with a use-case, presenter, and auto-generated test files."
+---
+
 # Create Your First Endpoint
 
 This guide walks you through creating your first endpoint in Devux.

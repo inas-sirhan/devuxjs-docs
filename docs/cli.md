@@ -1,3 +1,7 @@
+---
+description: "The Devux.js CLI — generate endpoints, services, repos, and manage dependencies from an interactive menu-driven interface."
+---
+
 # Using the CLI
 
 The Devux CLI is your main tool for generating code and managing your project. It's an interactive menu-driven interface powered by [@clack/prompts](https://github.com/bombshell-dev/clack).

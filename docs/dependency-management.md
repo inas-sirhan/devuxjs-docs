@@ -1,3 +1,7 @@
+---
+description: "Dependency management in Devux.js — the CLI tracks and manages all dependencies between components automatically."
+---
+
 # Dependency Management
 
 Devux tracks all dependencies between components in a registry. The CLI handles adding and removing dependencies, updating both the code and the registry automatically.

@@ -1,3 +1,7 @@
+---
+description: "Devux.js architecture — clean architecture layers, dependency rules, and domain-driven organization."
+---
+
 # Architecture
 
 Devux follows clean architecture principles with domain-driven organization. Each endpoint is self-contained with its own layers, making the codebase predictable and maintainable.

@@ -1,3 +1,7 @@
+---
+description: "Domain repos in Devux.js — shared data access layers within a domain, reusable across multiple endpoints."
+---
+
 # Domain Repos
 
 Domain repos are shared data access layers within a domain. For shared concepts like constraint handling and repo structure, see the [Repos Overview](/docs/repos/).

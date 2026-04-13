@@ -1,3 +1,7 @@
+---
+description: "Syncing API in Devux.js — generate the OpenAPI spec and type-safe API clients from your endpoint schemas."
+---
+
 # Syncing API
 
 Generate the OpenAPI spec and type-safe API clients from your endpoint schemas.

@@ -1,3 +1,7 @@
+---
+description: "Transaction management in Devux.js — automatic commit, rollback, and retry with exponential backoff for serialization and deadlock errors."
+---
+
 # Transaction Management
 
 Devux handles database transactions automatically when you use `TransactionalUseCase`. Transactions are scoped to the use-case - all database operations within a use-case share the same transaction connection, and the framework handles commit, rollback, and retries.

@@ -1,3 +1,7 @@
+---
+description: "__internals__ in Devux.js — framework-managed code for DI bindings, tokens, and wiring that you don't need to touch."
+---
+
 # __internals__
 
 The `__internals__` folder contains framework-managed code that you typically don't need to touch.

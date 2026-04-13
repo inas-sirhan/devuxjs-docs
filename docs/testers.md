@@ -1,3 +1,7 @@
+---
+description: "Testers in Devux.js — auto-generated type-safe tester classes for unit testing with fully wired DI and type-safe mocking."
+---
+
 # Testers
 
 Devux auto-generates type-safe tester classes for every component you create. Testers set up the DI container, handle mocking, and provide a clean API for writing unit tests.
