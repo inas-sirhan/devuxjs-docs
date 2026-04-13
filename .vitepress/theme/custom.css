@@ -25,3 +25,17 @@
 .VPSocialLinks .VPSocialLink:last-child:hover::after {
     opacity: 1;
 }
+
+/* Profile picture - responsive size */
+.author-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+@media (max-width: 640px) {
+    .author-pic {
+        width: 64px;
+        height: 64px;
+    }
+}
