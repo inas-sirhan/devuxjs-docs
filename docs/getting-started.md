@@ -218,4 +218,10 @@ Everything is fully typed — response shape, error codes, and request params ar
 
 ---
 
+That's it for the simple example! Ready to add a real database?
+
+[2. Add a Database Layer →](/docs/getting-started-database)
+
+---
+
 > More thorough examples and video tutorials coming soon!

@@ -48,7 +48,14 @@ export default defineConfig({
                 text: 'Introduction',
                 items: [
                     { text: 'What is Devux?', link: '/docs/what-is-devux' },
-                    { text: 'Getting Started', link: '/docs/getting-started' },
+                    {
+                        text: 'Getting Started',
+                        collapsed: false,
+                        items: [
+                            { text: '1. Simple Example', link: '/docs/getting-started' },
+                            { text: '2. Add a Database Layer', link: '/docs/getting-started-database' },
+                        ],
+                    },
                 ],
             },
             {
