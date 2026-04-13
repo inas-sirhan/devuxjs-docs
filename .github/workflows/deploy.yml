@@ -24,3 +24,10 @@ jobs:
             pnpm build
             cp -r .vitepress/dist/* /var/www/devux-docs/
             sudo systemctl reload nginx
+
+      - name: Purge Cloudflare Cache
+        run: |
+          curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
+            -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data '{"purge_everything":true}'
